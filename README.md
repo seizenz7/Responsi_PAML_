@@ -3,4 +3,4 @@
 ## Getting Started
 ![N|Solid](https://dart.dev/assets/img/logo/logo-white-text.svg)
 ## Result
-![Homepage](https://raw.githubusercontent.com/seizenz7/Responsi_PAML_/blob/main/result/Home.png)
+![Homepage]([https://raw.githubusercontent.com/seizenz7/Responsi_PAML_/blob/main/result/Home.png](https://github.com/seizenz7/Responsi_PAML_/blob/main/result/Home.png)
