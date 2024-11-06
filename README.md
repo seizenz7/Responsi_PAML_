@@ -1,5 +1,5 @@
 # Responsi PAML C
-## 5210411070_Aditya Indra W
+5210411070_Aditya Indra W
 ## Getting Started
 ![N|Solid](https://dart.dev/assets/img/logo/logo-white-text.svg)
 ## Result
