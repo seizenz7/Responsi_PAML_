@@ -3,4 +3,5 @@
 ## Getting Started
 ![N|Solid](https://dart.dev/assets/img/logo/logo-white-text.svg)
 ## Result
-![Homepage](https://github.com/seizenz7/Responsi_PAML_/blob/main/result/Home.png){:class="img-responsive"}
+![Homepage](https://github.com/seizenz7/Responsi_PAML_/blob/main/result/Home.png)
+<img src="https://github.com/seizenz7/Responsi_PAML_/blob/main/result/Home.png" width=50% height=50%>
